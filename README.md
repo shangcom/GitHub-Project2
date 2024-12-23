@@ -3,3 +3,4 @@ remote to local
 
 - Push Test
 - Fetch Test
+- Pull Test
